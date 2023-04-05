@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarık Koç</h1>
-<h3 align="center">Hi 👋, I'm Tarık Koç, I'm a graduated of BSc of Industrial Engineering at Karabuk University. Works in the software engineering field. Experienced in web design, software design & Front-end Developer. He is interested in diverse css frameworks. He has experience in Javascript, React.js, HTML and CSS frameworks.</h3>
+<h3 align="center">I have a Bachelor of Science degree in Industrial Engineering from Karabuk University, and I work in the software engineering field as a freelance web developer. I have experience in web design, software design, and front-end development. I am interested in diverse CSS frameworks, and I have experience with JavaScript, React.js, HTML, and CSS frameworks.</h3>
 <div align="center" >
 <img alt="coding" width="400" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif">
 <img alt="coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611dad192e4340a605521979124dccaae7026898dc3&rid=giphy.gif&ct=g">
